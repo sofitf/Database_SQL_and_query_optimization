@@ -62,4 +62,3 @@ A partir de las consultas realizadas sobre la base de datos se identificaron alg
 - Algunos géneros dominan el catálogo, reflejando las preferencias del público.
 - La producción de contenido varía por año, mostrando picos en determinados periodos.
 - El contenido proviene de múltiples países, mostrando diversidad internacional.
-Estos resultados muestran cómo una estructura de datos adecuada facilita el análisis exploratorio y la obtención de insights sobre el catálogo de contenido.
