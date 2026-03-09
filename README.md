@@ -1,4 +1,5 @@
 
+<h1 align="center">Análisis de Datos de Plataforma de Streaming</h1>
 ## 1. Descripción
 Los datasets de contenido suelen venir en formatos no estructurados, donde múltiples valores se almacenan en una sola columna. Esto dificulta realizar análisis eficientes y consultas complejas.
 
